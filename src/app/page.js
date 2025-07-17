@@ -290,7 +290,7 @@ export default function Navbar() {
   }, []);
 
   const navLinks = [
-    { href: '#home', icon: FaHome, label: 'Home2' },
+    { href: '#home', icon: FaHome, label: 'Home' },
     { href: '#about', icon: FaUser, label: 'About' },
     { href: '#projects', icon: FaProjectDiagram, label: 'Projects' },
     { href: '#skills', icon: FaTools, label: 'Skills' },
