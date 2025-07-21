@@ -77,12 +77,12 @@ export const projects = [
     description: 'Inviting coffee café with warm lighting, cozy seating, and fresh brews.',
   },
   {
-    src: '/img/UIUX.png',
-    title: 'UI/UX Design Roadmap',
+    src: '/img/OrganicStore.png',
+    title: 'Organic Store',
     category: 'WordPress',
     mode: 'development',
-    url: '',
-    description: 'UI/UX roadmap showcasing design stages, tools, and user flow.',
+    url: 'https://dev-aarifsite.pantheonsite.io/',
+    description: 'Organic store with fresh produce, eco-packaging, and natural earthy vibe.',
   },
   
 
