@@ -159,6 +159,30 @@ export const projects = [
     url: '/ClzAdmissionForm.html',
     description: 'A college admission form designed with input fields and validation.',
   },
+  {
+    src: '/img/ChessGame.png',
+    title: 'Chess Game',
+    category: 'React',
+    mode: 'development',
+    url: '',
+    description: 'Intense 3D chess match with animated pieces and glowing moves.',
+  },
+  {
+    src: '/img/MemoryGame.png',
+    title: 'Memory Game',
+    category: 'React',
+    mode: 'development',
+    url: 'https://stellar-pastelito-994368.netlify.app/',
+    description: 'Fun memory game with flipping cards and joyful colors.',
+  },
+  {
+    src: '/img/NewsBlog.png',
+    title: 'News Blog',
+    category: 'React',
+    mode: 'development',
+    url: 'https://thunderous-fox-272154.netlify.app/',
+    description: 'A sleek animated news blog interface with dynamic headlines and icons.',
+  },
 // Designer below
 
   
@@ -188,7 +212,7 @@ export const projects = [
   description: 'PhonePe app interface designed in Figma with sleek, modern visuals.',
 },
 {
-  src: '/img/instamart.png',
+  src: '/img/Instamart.png',
   title: 'Instamart',
   category: 'Figma',
   mode: 'designer',
