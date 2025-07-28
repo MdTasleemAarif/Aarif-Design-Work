@@ -7,7 +7,7 @@ export const projects = [
     category: 'JavaScript',
     mode: 'development',
     url: 'https://mdtasleemaarif.github.io/gamezone/',
-    description: 'A classic 2-player tic tac toe game with interactive logic.',
+    description: 'A classic 2-player Tic-Tac-Toe Game with interactive logic.',
   },
   {
     src: '/img/BMI-Calculator.png',
@@ -15,7 +15,7 @@ export const projects = [
     category: 'JavaScript',
     mode: 'development',
     url: '/BMIcalculater.html',
-    description: 'A BMI calculator that takes height and weight to compute index.',
+    description: 'A BMI Calculator that takes height and weight to compute index.',
   },
   {
     src: '/img/Digital-Clock.png',
@@ -23,7 +23,7 @@ export const projects = [
     category: 'JavaScript',
     mode: 'development',
     url: '/digitalclock.html',
-    description: 'A real-time digital clock with alarm setting functionality.',
+    description: 'A real-time Digital Clock with alarm setting functionality.',
   },
   {
     src: '/img/Smart-Calculator.png',
@@ -31,7 +31,7 @@ export const projects = [
     category: 'JavaScript',
     mode: 'development',
     url: '/Calculater.html',
-    description: 'A smart calculator for basic and scientific operations.',
+    description: 'A Smart Calculator for basic and scientific operations.',
   },
   {
     src: '/img/Rock-Paper-Scissor.png',
@@ -39,7 +39,7 @@ export const projects = [
     category: 'JavaScript',
     mode: 'development',
     url: '/RockPaperSissor.html',
-    description: 'An interactive rock-paper-scissor game vs computer.',
+    description: 'An interactive Rock-Paper-Scissor game vs computer.',
   },
   {
     src: '/img/Expension.png',
@@ -47,7 +47,7 @@ export const projects = [
     category: 'JavaScript',
     mode: 'development',
     url: '/expension.html',
-    description: 'A personal expense tracker to log and analyze spending.',
+    description: 'A personal Expense Tracker to log and analyze spending.',
   },
   {
     src: '/img/ZestyBite.png',
@@ -63,7 +63,7 @@ export const projects = [
     category: 'BootStrap',
     mode: 'development',
     url: 'https://mdtasleemaarif.github.io/OrganicFoodDelivery/',
-    description: 'Fresh organic produce delivered fast with eco-friendly, modern packaging design.',
+    description: 'Fresh Organic Produce delivered fast with eco-friendly, modern packaging design.',
   },
 
 
@@ -74,7 +74,7 @@ export const projects = [
     category: 'WordPress',
     mode: 'development',
     url: 'https://dev-coffee-cafe.pantheonsite.io/',
-    description: 'Inviting coffee café with warm lighting, cozy seating, and fresh brews.',
+    description: 'Inviting Coffee Café with warm lighting, cozy seating, and fresh brews.',
   },
   {
     src: '/img/OrganicStore.png',
@@ -82,7 +82,7 @@ export const projects = [
     category: 'WordPress',
     mode: 'development',
     url: 'https://dev-aarifsite.pantheonsite.io/',
-    description: 'Organic store with fresh produce, eco-packaging, and natural earthy vibe.',
+    description: 'Organic Store with fresh produce, eco-packaging, and natural earthy vibe.',
   },
   
 
@@ -92,7 +92,7 @@ export const projects = [
     category: 'CSS',
     mode: 'development',
     url: '/quiz.html',
-    description: 'An interactive web design quiz to test frontend knowledge.',
+    description: 'An interactive Web Design Quiz to test frontend knowledge.',
   },
   {
     src: '/img/Gym-Plan.png',
@@ -108,7 +108,7 @@ export const projects = [
     category: 'CSS',
     mode: 'development',
     url: '/AarifRestaurant.html',
-    description: 'A stylish restaurant menu design with dishes and prices.',
+    description: 'A stylish Restaurant Menu design with dishes and prices.',
   },
   {
     src: '/img/Aarif-Book-Store.png',
@@ -116,7 +116,7 @@ export const projects = [
     category: 'CSS',
     mode: 'development',
     url: 'https://mdtasleemaarif.github.io/Aarif-eBook-Store/',
-    description: 'An elegant online book store interface with book categories.',
+    description: 'An elegant online Book Store interface with book categories.',
   },
   {
     src: '/img/Registration.png',
@@ -124,7 +124,7 @@ export const projects = [
     category: 'CSS',
     mode: 'development',
     url: 'https://mdtasleemaarif.github.io/Registration-Project/',
-    description: 'A stylish login and registration form with field validation.',
+    description: 'A stylish Login and Registration form with field validation.',
   },
 
   {
@@ -133,7 +133,7 @@ export const projects = [
     category: 'HTML',
     mode: 'development',
     url: '/InvitedFormOnCeremony.html',
-    description: 'A festive invitation form designed for events and celebrations.',
+    description: 'A festive Invitation Form designed for events and celebrations.',
   },
   {
     src: '/img/My-Photo-Gallery.png',
@@ -141,7 +141,7 @@ export const projects = [
     category: 'HTML',
     mode: 'development',
     url: '/PhotoGallery.html',
-    description: 'A stunning photo gallery showcasing images in a grid layout.',
+    description: 'A stunning Photo Gallery showcasing images in a grid layout.',
   },
   {
     src: '/img/School-Time-Table.png',
@@ -157,7 +157,7 @@ export const projects = [
     category: 'HTML',
     mode: 'development',
     url: '/ClzAdmissionForm.html',
-    description: 'A college admission form designed with input fields and validation.',
+    description: 'A College Admission form designed with input fields and validation.',
   },
   {
     src: '/img/ChessGame.png',
@@ -165,7 +165,7 @@ export const projects = [
     category: 'React',
     mode: 'development',
     url: '',
-    description: 'Intense 3D chess match with animated pieces and glowing moves.',
+    description: 'Intense Chess match with animated pieces and glowing moves.',
   },
   {
     src: '/img/MemoryGame.png',
@@ -173,7 +173,7 @@ export const projects = [
     category: 'React',
     mode: 'development',
     url: 'https://stellar-pastelito-994368.netlify.app/',
-    description: 'Fun memory game with flipping cards and joyful colors.',
+    description: 'Fun Memory Game with flipping cards and joyful colors.',
   },
   {
     src: '/img/NewsBlog.png',
@@ -181,7 +181,7 @@ export const projects = [
     category: 'React',
     mode: 'development',
     url: 'https://thunderous-fox-272154.netlify.app/',
-    description: 'A sleek animated news blog interface with dynamic headlines and icons.',
+    description: 'A sleek animated News Blog interface with dynamic headlines and icons.',
   },
 // Designer below
 
@@ -226,7 +226,7 @@ export const projects = [
   category: 'Figma',
   mode: 'designer',
   url: 'https://www.figma.com/proto/Lr67SuCNeiIpURTfh3KBup/1mg?node-id=1-3&t=rxXE2PzoRlvQBQt3-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1',
-  description: '1mg app design in Figma with central logo and UI.',
+  description: '1mg App design in Figma with central logo and UI.',
 },
 {
   src: '/img/PhonPechat.png',
