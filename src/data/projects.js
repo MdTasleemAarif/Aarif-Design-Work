@@ -160,12 +160,12 @@ export const projects = [
     description: 'A College Admission form designed with input fields and validation.',
   },
   {
-    src: '/img/ChessGame.png',
-    title: 'Chess Game',
+    src: '/img/kanbanBoard.png',
+    title: 'Kanban Board',
     category: 'React',
     mode: 'development',
     url: '',
-    description: 'Intense Chess match with animated pieces and glowing moves.',
+    description: 'Colorful animated Kanban board showing tasks moving through workflow stages.',
   },
   {
     src: '/img/MemoryGame.png',
