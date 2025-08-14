@@ -77,7 +77,7 @@ export const projects = [
     description: 'Inviting Coffee Café with warm lighting, cozy seating, and fresh brews.',
   },
   {
-    src: '/img/OrganicStore.png',
+    src: '/img/FreshOrganic.png',
     title: 'Organic Store',
     category: 'WordPress',
     mode: 'development',
