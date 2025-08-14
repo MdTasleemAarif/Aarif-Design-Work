@@ -164,7 +164,7 @@ export const projects = [
     title: 'Kanban Board',
     category: 'React',
     mode: 'development',
-    url: '',
+    url: 'https://github.com/MdTasleemAarif/Kanban-Board',
     description: 'Colorful animated Kanban board showing tasks moving through workflow stages.',
   },
   {
